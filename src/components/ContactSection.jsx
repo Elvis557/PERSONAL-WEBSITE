@@ -2,7 +2,7 @@ import { Linkedin, Mail, MapPin , Twitter, Send, Instagram, Youtube, Phone} from
 import {cn} from '@/lib/utils'
 import { SiTiktok } from 'react-icons/si';
 import { useToast } from "../hooks/use-toast";
-import { useState } from "react";
+import { useState } from "react"; 
 
 export const ContactSection = () => {
     const {toast} = useToast();
