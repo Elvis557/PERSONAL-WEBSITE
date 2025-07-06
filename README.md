@@ -1,1 +1,35 @@
-Designed and developed a responsive personal portfolio website using React and Tailwind CSS. Showcases projects, skills, and contact information with a modern, user-friendly interface. Emphasized clean design, component-based architecture, and smooth navigation to provide an engaging experience for visitors. 
+# 🌟 My Personal Portfolio
+
+Welcome to my personal portfolio website, built with **React (Vite)** and **Tailwind CSS**! This site showcases who I am, what I do, and the projects I’m passionate about.
+
+Visit it here: [🔗 Live Site]()
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ **React** (with Vite for super-fast dev experience)
+- 🎨 **Tailwind CSS** (for utility-first, responsive design)
+- 🗂️ **React Router** (for smooth navigation)
+- 📦 Optional: **Framer Motion**, **EmailJS**, etc. (if you use them!)
+
+---
+
+## 📸 Features
+
+✅ Modern responsive design  
+✅ Dark/light mode (if implemented)  
+✅ Project showcase with images and links  
+✅ About Me section  
+✅ Contact form (optional integration with EmailJS)  
+✅ Clean, accessible UI
+
+---
+
+## 🛠️ Installation & Setup
+
+Clone the repo:
+
+```bash
+git clone https://github.com/yourusername/your-portfolio-repo.git
+cd your-portfolio-repo
