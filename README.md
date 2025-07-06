@@ -26,15 +26,6 @@ Visit it here: [🔗 PERSONAL-WEBSITE](https://myportfoliosite-umber.vercel.app/
 
 ---
 
-##🙏 Acknowledgments
-
-React documentation
-Tailwind CSS docs
-Vite documentation
-Inspiration from amazing open source portfolios!
-
----
-
 ## 🛠️ Installation & Setup
 
 Clone the repo:
