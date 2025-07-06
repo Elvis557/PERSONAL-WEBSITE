@@ -33,3 +33,11 @@ Clone the repo:
 ```bash
 git clone https://github.com/Elvis557/PERSONAL-WEBSITE.git
 cd PERSONAL-WEBSITE
+
+---
+##🙏 Acknowledgments
+
+React documentation
+Tailwind CSS docs
+Vite documentation
+Inspiration from amazing open source portfolios!
