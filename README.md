@@ -26,6 +26,15 @@ Visit it here: [🔗 PERSONAL-WEBSITE](https://myportfoliosite-umber.vercel.app/
 
 ---
 
+##🙏 Acknowledgments
+
+React documentation
+Tailwind CSS docs
+Vite documentation
+Inspiration from amazing open source portfolios!
+
+---
+
 ## 🛠️ Installation & Setup
 
 Clone the repo:
@@ -34,10 +43,3 @@ Clone the repo:
 git clone https://github.com/Elvis557/PERSONAL-WEBSITE.git
 cd PERSONAL-WEBSITE
 
----
-##🙏 Acknowledgments
-
-React documentation
-Tailwind CSS docs
-Vite documentation
-Inspiration from amazing open source portfolios!
