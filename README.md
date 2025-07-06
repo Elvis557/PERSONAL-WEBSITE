@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built with **React (Vite)** and **Tailwind CSS**! This site showcases who I am, what I do, and the projects I’m passionate about.
 
-Visit it here: [🔗 Live Site](https://myportfoliosite-umber.vercel.app/)
+Visit it here: [🔗 PERSONAL-WEBSITE](https://myportfoliosite-umber.vercel.app/)
 
 ---
 
