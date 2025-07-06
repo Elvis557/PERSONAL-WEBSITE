@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built with **React (Vite)** and **Tailwind CSS**! This site showcases who I am, what I do, and the projects I’m passionate about.
 
-Visit it here: [🔗 Live Site]()
+Visit it here: [🔗 Live Site](https://myportfoliosite-umber.vercel.app/)
 
 ---
 
@@ -31,5 +31,5 @@ Visit it here: [🔗 Live Site]()
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio-repo.git
-cd your-portfolio-repo
+git clone https://github.com/Elvis557/PERSONAL-WEBSITE.git
+cd PERSONAL-WEBSITE
