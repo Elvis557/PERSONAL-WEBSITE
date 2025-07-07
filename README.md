@@ -21,7 +21,7 @@ Visit it here: [🔗 PERSONAL-WEBSITE](https://myportfoliosite-umber.vercel.app/
 ✅ Dark/light mode (if implemented)  
 ✅ Project showcase with images and links  
 ✅ About Me section  
-✅ Contact form (optional integration with EmailJS)  
+✅ Contact form (integration with EmailJS)  
 ✅ Clean, accessible UI
 
 ---
