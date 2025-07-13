@@ -8,9 +8,9 @@ Visit it here: [🔗 PERSONAL-WEBSITE](https://myportfoliosite-umber.vercel.app/
 
 ## 🚀 Tech Stack
 
-- ⚛️ **React** (with Vite for super-fast dev experience)
-- 🎨 **Tailwind CSS** (for utility-first, responsive design)
-- 🗂️ **React Router** (for smooth navigation)
+- ⚛️ **React** (with Vite for super-fast dev experience)  
+- 🎨 **Tailwind CSS** (for utility-first, responsive design)  
+- 🗂️ **React Router** (for smooth navigation)  
 - 📦 Optional: **Framer Motion**, **EmailJS**, etc. (if you use them!)
 
 ---
@@ -33,4 +33,3 @@ Clone the repo:
 ```bash
 git clone https://github.com/Elvis557/PERSONAL-WEBSITE.git
 cd PERSONAL-WEBSITE
-
