@@ -11,7 +11,7 @@ Visit it here: [🔗 PERSONAL-WEBSITE](https://myportfoliosite-umber.vercel.app/
 - ⚛️ **React** (with Vite for super-fast dev experience)  
 - 🎨 **Tailwind CSS** (for utility-first, responsive design)  
 - 🗂️ **React Router** (for smooth navigation)  
-- 📦 Optional: **Framer Motion**, **EmailJS**, etc. (if you use them!)
+- 📦 **Tools**: **Framer Motion**, **EmailJS**, etc. 
 
 ---
 
