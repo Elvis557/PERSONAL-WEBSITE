@@ -40,6 +40,16 @@ const projects = [
     demourl: "#",
     githubUrl: "https://github.com/ADBUL-ELVIS/E-COMMERECE-WEBSITE",
     ongoing:true
+  },
+  {
+    id: 5,
+    title: "A1 OPPORTUNITIES AFRICA",
+    description: "A1 Opportunities Africa is a modern web platform connecting Africans to impactful opportunities in education, jobs, and innovation. Built with React + Vite, styled using Tailwind CSS, and deployed on Vercel, it delivers a fast, responsive, and user-friendly experience. The site uses the Inter font for clean readability and is optimized for all devices.",
+    image: "/projects/Project5.jpg",
+    tags: ["React", "Vite", "Tailwind CSS", "Vercel"],
+    demourl: "https://a1-opportunities-africa.vercel.app/",
+    githubUrl: "https://github.com/Elvis557/A1-OPPORTUNITIES-AFRICA",
+    ongoing: true
   }
  
 ];
