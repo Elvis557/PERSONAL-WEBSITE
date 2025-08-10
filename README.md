@@ -26,10 +26,13 @@ Visit it here: [🔗 PERSONAL-WEBSITE](https://myportfoliosite-umber.vercel.app/
 
 ---
 
-## 🛠️ Installation & Setup
+## 🎨 Interface 
 
-Clone the repo:
+## White Mode
+<img width="1349" height="4962" alt="image" src="https://github.com/user-attachments/assets/94a4ec1e-48ce-4bd9-b719-d95eeb08faea" />
 
-```bash
-git clone https://github.com/Elvis557/PERSONAL-WEBSITE.git
-cd PERSONAL-WEBSITE
+## Dark Mode
+<img width="1349" height="4962" alt="image" src="https://github.com/user-attachments/assets/9ff06d09-3e59-4575-a7e9-b026cadab0f4" />
+
+
+
