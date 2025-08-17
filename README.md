@@ -1,38 +1,43 @@
-# 🌟 My Personal Portfolio
+# 🌟 Personal Portfolio  
 
-Welcome to my personal portfolio website, built with **React (Vite)** and **Tailwind CSS**! This site showcases who I am, what I do, and the projects I’m passionate about.
+Welcome to my **personal portfolio website**, built with **React (Vite)** and **Tailwind CSS**.  
+This site highlights **who I am, what I do, and the projects I’m passionate about**.  
 
-Visit it here: [🔗 PERSONAL-WEBSITE](https://myportfoliosite-umber.vercel.app/)
-
----
-
-## 🚀 Tech Stack
-
-- ⚛️ **React** (with Vite for super-fast dev experience)  
-- 🎨 **Tailwind CSS** (for utility-first, responsive design)  
-- 🗂️ **React Router** (for smooth navigation)  
-- 📦 **Tools**: **Framer Motion**, **EmailJS**, etc. 
+👉 **Live Demo:** [🔗 View Portfolio](https://myportfoliosite-umber.vercel.app/)  
 
 ---
 
-## 📸 Features
+## 🚀 Tech Stack  
 
-✅ Modern responsive design  
-✅ Dark/light mode (if implemented)  
-✅ Project showcase with images and links  
-✅ About Me section  
-✅ Contact form (integration with EmailJS)  
-✅ Clean, accessible UI
+- ⚛️ **React** (with Vite for blazing-fast development)  
+- 🎨 **Tailwind CSS** (utility-first responsive design)  
+- 🗂️ **React Router** (smooth page navigation)  
+- 🎬 **Framer Motion** (animations & transitions)  
+- 📧 **EmailJS** (contact form integration)  
+- 🔧 **Other Tools**: ESLint, Prettier, GitHub Actions  
 
 ---
 
-## 🎨 Interface 
+## 📸 Features  
 
-## White Mode
-<img width="1349" height="4962" alt="image" src="https://github.com/user-attachments/assets/94a4ec1e-48ce-4bd9-b719-d95eeb08faea" />
+✅ Responsive & modern UI (mobile + desktop)  
+✅ Light/Dark mode support  
+✅ Project showcase with images & links  
+✅ About Me section with bio  
+✅ Contact form powered by EmailJS  
+✅ Clean, accessible, and fast  
 
-## Dark Mode
-<img width="1349" height="4962" alt="image" src="https://github.com/user-attachments/assets/9ff06d09-3e59-4575-a7e9-b026cadab0f4" />
+---
 
+## 🎨 Interface Preview  
 
+### ☀️ Light Mode  
+<img width="1349" alt="Light Mode" src="https://github.com/user-attachments/assets/94a4ec1e-48ce-4bd9-b719-d95eeb08faea" />  
+
+### 🌙 Dark Mode  
+<img width="1349" alt="Dark Mode" src="https://github.com/user-attachments/assets/9ff06d09-3e59-4575-a7e9-b026cadab0f4" />  
+
+---
+
+## 📂 Project Structure  
 
