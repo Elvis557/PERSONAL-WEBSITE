@@ -37,7 +37,4 @@ This site highlights **who I am, what I do, and the projects I’m passionate ab
 ### 🌙 Dark Mode  
 <img width="1349" alt="Dark Mode" src="https://github.com/user-attachments/assets/9ff06d09-3e59-4575-a7e9-b026cadab0f4" />  
 
----
-
-## 📂 Project Structure  
 
