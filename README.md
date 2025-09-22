@@ -351,6 +351,6 @@ graph LR
 
 **Built with 💖 by Boateng Elvis**
 <br/>
-*Crafted pixel by pixel, optimized bit by bit* ✨
+*Crafted pixel by pixel, optimized bit by bit* 
 
 </div>
