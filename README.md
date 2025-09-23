@@ -58,7 +58,7 @@ This portfolio represents the pinnacle of modern web development, showcasing cut
 🌐 Cross-Browser:     ✅
 ```
 
-**⚡ Core Web Vitals:**
+**Core Web Vitals:**
 - LCP: < 1.2s
 - FID: < 100ms  
 - CLS: < 0.1
