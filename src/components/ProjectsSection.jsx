@@ -56,7 +56,7 @@ const projects = [
     id: 6,
     title: "LinkUp",
     description: "A real-time chat app where conversations happen instantly. Built with Node.js, Express, and Socket.IO, LinkUp lets users connect, vibe, and chat live — anytime, anywhere. Fast. Minimal. Gen Z energy. ",
-    image: "/projects/Project6.png",
+    image: "/projects/Project6.jpg",
     tags: ["Node.js", "Express", "Socket.IO"],
     demourl: "https://real-chat-application-vert.vercel.app/",
     githubUrl: "https://github.com/Elvis557/LinkUp",
@@ -164,3 +164,4 @@ export const ProjectsSection = () => {
     </section>
   );
 };
+
