@@ -1,3 +1,4 @@
+import { on } from "events";
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
@@ -49,6 +50,16 @@ const projects = [
     tags: ["React", "Vite", "Tailwind CSS", "Vercel"],
     demourl: "https://a1-opportunities-africa.vercel.app/",
     githubUrl: "https://github.com/Elvis557/A1-OPPORTUNITIES-AFRICA",
+    ongoing: true
+  },
+  {
+    id: 6,
+    title: "LinkUp",
+    description: "A real-time chat app where conversations happen instantly. Built with Node.js, Express, and Socket.IO, LinkUp lets users connect, vibe, and chat live — anytime, anywhere. Fast. Minimal. Gen Z energy. ",
+    image: "/projects/Project6.png",
+    tags: ["Node.js", "Express", "Socket.IO"],
+    demourl: "https://real-chat-application-vert.vercel.app/",
+    githubUrl: "https://github.com/Elvis557/LinkUp",
     ongoing: true
   }
  
