@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 import { AlertTriangle } from "lucide-react";
 
 export const NotFound = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-background text-foreground px-4 relative overflow-hidden">
       <div className="absolute inset-0 pointer-events-none opacity-20">
-
         <div className="bg-gradient-to-br from-primary/30 via-transparent to-primary/10 w-full h-full blur-3xl"></div>
       </div>
       <AlertTriangle className="w-16 h-16 text-primary mb-4 animate-fade-in" />
@@ -25,13 +23,3 @@ export const NotFound = () => {
     </div>
   );
 };
-=======
-
-export const NotFound = () => {
-  return (
-    <div></div>
-  )
-}
-
-
->>>>>>> 699f3c4259cee69c5549ec7ed5ec42b693a5b26b
