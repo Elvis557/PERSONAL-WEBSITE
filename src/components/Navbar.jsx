@@ -96,7 +96,6 @@ export const Navbar = () => {
                         ))}
                     </div>
 
-                    {/* Add ThemeToggle in the mobile nav */}
                     <div className="mt-8">
                         <ThemeToggle />
                     </div>
