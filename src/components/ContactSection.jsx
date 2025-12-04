@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { Linkedin, Mail, MapPin, Twitter, Send, Instagram, Youtube, Phone } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { SiTiktok } from "react-icons/si";
