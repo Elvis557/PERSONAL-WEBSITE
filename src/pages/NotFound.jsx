@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { AlertTriangle } from "lucide-react";
 
 export const NotFound = () => {
@@ -24,3 +25,13 @@ export const NotFound = () => {
     </div>
   );
 };
+=======
+
+export const NotFound = () => {
+  return (
+    <div></div>
+  )
+}
+
+
+>>>>>>> 699f3c4259cee69c5549ec7ed5ec42b693a5b26b
