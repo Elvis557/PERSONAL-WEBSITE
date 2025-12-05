@@ -286,5 +286,4 @@ function useToast() {
   };
 }
 
->>>>>>> 699f3c4259cee69c5549ec7ed5ec42b693a5b26b
 export { useToast, toast };
