@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 import { ArrowUp } from "lucide-react"
 
 export const Footer = () => {
